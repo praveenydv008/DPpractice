@@ -1,2 +1,2 @@
-# DPpractice
-This repo has dynamic programming solutions for some common problems.
+# Problem solving practice
+This repo has solutions for some common problems.
